@@ -3,7 +3,7 @@ title:        "Yggshka blog"
 description:  "Yggshka blog 1"
 baseurl:      "/hey/" # the subpath of your site, e.g. /blog/
 url:          "http://yggshka.github.io" # the base hostname & protocol for your site
-permalink:    /:2016/:yggska
+permalink:    /:year/:title
 github:       "me"
 twitter:      "yme"
 email:        "yggshka@mail.ru"
