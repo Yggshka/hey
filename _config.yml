@@ -1,11 +1,11 @@
 # Site settings
 title:        "Yggshka blog"
-description:  "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolor"
+description:  "Yggshka blog 1"
 baseurl:      "" # the subpath of your site, e.g. /blog/
 url:          "http://yggshka1.github.io" # the base hostname & protocol for your site
-permalink:    /:year/:title
-github:       "yourusername"
-twitter:      "yourusername"
+permalink:    /:2016/:yggska
+github:       "me"
+twitter:      "yme"
 email:        "yggshka@mail.ru"
 disqus-id:    "example" #leave blank if you dont want comments.
 
