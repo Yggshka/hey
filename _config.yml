@@ -1,8 +1,8 @@
 # Site settings
 title:        "Yggshka blog"
 description:  "Yggshka blog 1"
-baseurl:      "http://yggshka.github.io" # the subpath of your site, e.g. /blog/
-url:          "http://yggshka1.github.io" # the base hostname & protocol for your site
+baseurl:      "/hey" # the subpath of your site, e.g. /blog/
+url:          "http://yggshka.github.io" # the base hostname & protocol for your site
 permalink:    /:2016/:yggska
 github:       "me"
 twitter:      "yme"
