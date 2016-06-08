@@ -1,12 +1,12 @@
 # Site settings
-title:        "block-Log"
+title:        "Yggshka blog"
 description:  "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolor"
 baseurl:      "" # the subpath of your site, e.g. /blog/
-url:          "http://yourdomain.com" # the base hostname & protocol for your site
+url:          "http://yggshka1.github.io" # the base hostname & protocol for your site
 permalink:    /:year/:title
 github:       "yourusername"
 twitter:      "yourusername"
-email:        "mail@example.com"
+email:        "yggshka@mail.ru"
 disqus-id:    "example" #leave blank if you dont want comments.
 
 # Build settings
